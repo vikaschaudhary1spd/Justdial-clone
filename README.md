@@ -10,9 +10,9 @@ JavaScript <br/>
 
 
 # Functionalities
-Hotels search
-Map of location
-Users can rent to stay
+Hotels search <br/>
+Map of location <br/>
+Users can rent to stay <br/>
 
 
 
