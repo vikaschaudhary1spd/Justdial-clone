@@ -1,14 +1,7 @@
 # JustDial-clone
 
-<img src="https://akam.cdn.jdmagicbox.com/images/icontent/jdrwd_new/Flights.jpg"></img>
 
-
-
-
-
-
-
-# Technologies Used for FRONTEND
+# Technologies Used 
 REACTJS <br/>
 HTML <br/>
 CSS <br/>
